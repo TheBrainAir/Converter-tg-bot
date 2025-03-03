@@ -35,8 +35,8 @@ And many more. For a complete list, visit [Convertio Formats](https://convertio.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/convertio-telegram-bot.git
-cd convertio-telegram-bot
+git clone https://github.com/thebrainair/Converter-tg-bot.git
+cd Converter-tg-bot
 ```
 
 ### 2. Set up a virtual environment (recommended)
